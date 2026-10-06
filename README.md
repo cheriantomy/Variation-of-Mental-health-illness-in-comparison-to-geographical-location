@@ -1,5 +1,5 @@
-# Variation-of-Mental-health-illness-in-comparison-to-geographical-location
-Variation of Mental health illness in comparison to geographical location
+# Variation-of-Mental-health-illness comparing to-geographical-location
+Variation of Mental health illness comparing to geographical location
 ## Question
 “How does the frequency of mental health illness and attitudes towards mental health vary by geographic location, and
 what are the strongest predictors of mental health illness and specific attitudes towards mental health in the workplace?”
